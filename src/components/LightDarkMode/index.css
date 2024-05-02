@@ -1,0 +1,19 @@
+.center {
+  padding: 30px;
+}
+
+.background {
+  background-color: black;
+  border: solid 3px black;
+  height: 200px;
+  width: 400px;
+  text-align: center;
+  margin: 250px;
+  border-radius: 15px;
+  color: white;
+}
+
+.button {
+  padding: 15px;
+  font-size: 15px;
+}
